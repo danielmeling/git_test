@@ -1,5 +1,11 @@
 <style>
-  .back {
+
+p {
+  color:red;
+  font-size:20px;    
+  }
+
+   .back {
     position: fixed;
     padding: 0;
     margin: 0;
@@ -65,5 +71,3 @@
   }
 
 </style>
-<div class="back"></div>
-<div class="heart"></div>
